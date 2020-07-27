@@ -6,9 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="#343d52"
-
-    tools:context=".Welcome">
+    android:background="#343d52">
 
     <TextView
         android:layout_width="wrap_content"
