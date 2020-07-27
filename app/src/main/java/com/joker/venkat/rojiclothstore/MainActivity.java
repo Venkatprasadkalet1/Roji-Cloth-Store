@@ -137,6 +137,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (item.getItemId()) {
             case R.id.action_settings:
                 startActivity(new Intent(MainActivity.this, ThirdActivity.class));
+            case R.id.action_webpage:
+                startActivity(new Intent(MainActivity.this,Webpage.class));
                 break;
         }
 
@@ -153,7 +155,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             default:break;
         }
-
-
     }
 }
