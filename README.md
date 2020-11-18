@@ -1,2 +1,2 @@
 # Roji-Cloth-Store
-A offline cloth store.
+An offline cloth store.
